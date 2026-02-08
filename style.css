@@ -1,3 +1,39 @@
-.red{
-    color: red;
+:root{
+    --primary:var(#4CAF4F);
+}
+
+.bluebtn{ 
+    background-image: linear-gradient(#4776E6,#8E54E9);
+    border-radius: 35px;
+}
+
+/* hero section */
+.color{
+    color: #4CAF4F;
+}
+.first{
+    background-color: #F5F7FA;
+}
+.logo{
+    width: 100%;
+    gap: 25px;
+    align-items: center;
+}
+.community{
+    margin-top: 58px;
+}
+.card.1{
+    width: 10px;
+}
+.maximum{
+ color: #4CAF4F;
+}
+:root{
+    --primaryColor : #4CAF4F;
+    --bgColor :#FFFFFF !important;
+    --bgColor :#F5F7FA!important;
+    
+}
+
+.bluebuttton{
 }
