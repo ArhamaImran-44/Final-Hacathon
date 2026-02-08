@@ -1,39 +1,39 @@
-:root{
-    --primary:var(#4CAF4F);
-}
+
 
 .bluebtn{ 
     background-image: linear-gradient(#4776E6,#8E54E9);
     border-radius: 35px;
+  width: 160px;
+  height: 45px;
 }
 
 /* hero section */
-.color{
-    color: #4CAF4F;
+.gradient-text {
+  background: linear-gradient(90deg, #7f00ff, #e100ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
 }
-.first{
-    background-color: #F5F7FA;
+.hero {
+   background-color: #5E5CE6;
+    border-radius: 35px;
+  width: 160px;
+  height: 45px;
 }
-.logo{
-    width: 100%;
-    gap: 25px;
-    align-items: center;
+.admin-title {
+    font-size: 38px;
+    font-weight: 800;
+    margin-bottom: 10px;
 }
-.community{
-    margin-top: 58px;
-}
-.card.1{
-    width: 10px;
-}
-.maximum{
- color: #4CAF4F;
-}
-:root{
-    --primaryColor : #4CAF4F;
-    --bgColor :#FFFFFF !important;
-    --bgColor :#F5F7FA!important;
-    
+.call{font-size: 38px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 20px;
+ }
+
+.description-text {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 30px;
 }
 
-.bluebuttton{
-}
